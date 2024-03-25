@@ -16,11 +16,11 @@ Sou um entusiasta da tecnologia apaixonado por resolver problemas e criar soluç
 ### Estatísticas 📊
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gmenezes-santos&locale=pt-br" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=gmenezes-santos&locale=pt-br" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!--<a href="https://github.com/anuraghazra/convoychat">
   <img height=130 max-height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmenezes-santos&layout=compact&langs_count=8&card_width=150&locale=pt-br" />
-</a>
+</a>--> 
 
 ### Como Contribuir 🤝
 
